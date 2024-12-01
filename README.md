@@ -44,7 +44,7 @@ A interface foi projetada para ser simples e intuitiva
 1. Clone o repositório
 
    ```bash
-   git clone httpsgithub.comvictorduartewzRealSkills-Hub.git
+   git clone github.com/victorduartewz/RealSkills-Hub.git
    ```
 
 2. Navegue até o diretório do projeto
