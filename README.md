@@ -64,4 +64,6 @@ A interface foi projetada para ser simples e intuitiva
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+##
+
 Contribuições e sugestões são bem-vindas!
